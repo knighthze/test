@@ -1,0 +1,100 @@
+{
+  "uid" : "9f472dd938e353b6",
+  "name" : "test_2_createphoto",
+  "fullName" : "testcases.test_CreatePhotoAlbum.Test_CreatePhotoAlbum#test_2_createphoto",
+  "historyId" : "11be1a3d4f36831dc3fb65c152b8683c",
+  "time" : {
+    "start" : 1629096277848,
+    "stop" : 1629096282173,
+    "duration" : 4325
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_logsystem",
+    "time" : {
+      "start" : 1629096267383,
+      "stop" : 1629096273082,
+      "duration" : 5699
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "e9fe1a7b679e2f56",
+      "name" : "stdout",
+      "source" : "e9fe1a7b679e2f56.txt",
+      "type" : "text/plain",
+      "size" : 46
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "test_logsystem::0",
+    "time" : {
+      "start" : 1629096282174,
+      "stop" : 1629096282681,
+      "duration" : 507
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_CreatePhotoAlbum"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_CreatePhotoAlbum"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-S2QKEKE"
+  }, {
+    "name" : "thread",
+    "value" : "9500-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_CreatePhotoAlbum"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9f472dd938e353b6.json",
+  "parameterValues" : [ ]
+}

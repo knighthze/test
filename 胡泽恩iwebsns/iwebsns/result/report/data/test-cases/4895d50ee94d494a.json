@@ -1,0 +1,100 @@
+{
+  "uid" : "4895d50ee94d494a",
+  "name" : "test_1",
+  "fullName" : "testcases.test_inputphoto.Test_InputPhoto#test_1",
+  "historyId" : "587cff99624aed4b78cc219260326085",
+  "time" : {
+    "start" : 1629096325671,
+    "stop" : 1629096334204,
+    "duration" : 8533
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_logsystem",
+    "time" : {
+      "start" : 1629096319912,
+      "stop" : 1629096325670,
+      "duration" : 5758
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "4f138b8f336540ec",
+      "name" : "stdout",
+      "source" : "4f138b8f336540ec.txt",
+      "type" : "text/plain",
+      "size" : 40
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "test_logsystem::0",
+    "time" : {
+      "start" : 1629096340949,
+      "stop" : 1629096341474,
+      "duration" : 525
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_inputphoto"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_InputPhoto"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-S2QKEKE"
+  }, {
+    "name" : "thread",
+    "value" : "9500-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_inputphoto"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4895d50ee94d494a.json",
+  "parameterValues" : [ ]
+}

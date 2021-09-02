@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "selenium.common.exceptions.UnexpectedAlertPresentException: Alert Text: None\nMessage: Dismissed user prompt dialog: 您所建立的群组过多",
+      "children" : [ {
+        "name" : "test_2",
+        "uid" : "297bef0665cabac2",
+        "parentUid" : "4a90e760a20f0a118a78d9632d1c7580",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629122125969,
+          "stop" : 1629122125994,
+          "duration" : 25
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4a90e760a20f0a118a78d9632d1c7580"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}

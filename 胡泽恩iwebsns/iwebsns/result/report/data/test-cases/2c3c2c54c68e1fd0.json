@@ -1,0 +1,112 @@
+{
+  "uid" : "2c3c2c54c68e1fd0",
+  "name" : "test_4_TypeAddClass",
+  "fullName" : "testcases.test_AddClassification.TestAddClassification#test_4_TypeAddClass",
+  "historyId" : "dde8934dfb3e4ca7155dea0ea265e2c8",
+  "time" : {
+    "start" : 1629096250921,
+    "stop" : 1629096251401,
+    "duration" : 480
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_logsystem",
+    "time" : {
+      "start" : 1629096235746,
+      "stop" : 1629096242137,
+      "duration" : 6391
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b5fcf86ad113bc3c",
+      "name" : "log",
+      "source" : "b5fcf86ad113bc3c.txt",
+      "type" : "text/plain",
+      "size" : 79
+    }, {
+      "uid" : "ae1f3b33591567bc",
+      "name" : "stdout",
+      "source" : "ae1f3b33591567bc.txt",
+      "type" : "text/plain",
+      "size" : 55
+    }, {
+      "uid" : "f7715c48a339d0b2",
+      "name" : "stderr",
+      "source" : "f7715c48a339d0b2.txt",
+      "type" : "text/plain",
+      "size" : 101
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "test_logsystem::0",
+    "time" : {
+      "start" : 1629096251402,
+      "stop" : 1629096251924,
+      "duration" : 522
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_AddClassification"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestAddClassification"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-S2QKEKE"
+  }, {
+    "name" : "thread",
+    "value" : "9500-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_AddClassification"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2c3c2c54c68e1fd0.json",
+  "parameterValues" : [ ]
+}

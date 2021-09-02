@@ -1,0 +1,118 @@
+{
+  "uid" : "300bf8ad187fcc3a",
+  "name" : "test_2_createphoto",
+  "fullName" : "testcases.test_CreatePhotoAlbum.Test_CreatePhotoAlbum#test_2_createphoto",
+  "historyId" : "11be1a3d4f36831dc3fb65c152b8683c",
+  "time" : {
+    "start" : 1629122137275,
+    "stop" : 1629122141573,
+    "duration" : 4298
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_logsystem",
+    "time" : {
+      "start" : 1629122126665,
+      "stop" : 1629122132328,
+      "duration" : 5663
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "180cde30a29d6124",
+      "name" : "stdout",
+      "source" : "180cde30a29d6124.txt",
+      "type" : "text/plain",
+      "size" : 46
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "test_logsystem::0",
+    "time" : {
+      "start" : 1629122141574,
+      "stop" : 1629122142117,
+      "duration" : 543
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_CreatePhotoAlbum"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_CreatePhotoAlbum"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-S2QKEKE"
+  }, {
+    "name" : "thread",
+    "value" : "18916-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_CreatePhotoAlbum"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "453162e0baa0ad14",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629099852343,
+        "stop" : 1629099856703,
+        "duration" : 4360
+      }
+    }, {
+      "uid" : "9f472dd938e353b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629096277848,
+        "stop" : 1629096282173,
+        "duration" : 4325
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "300bf8ad187fcc3a.json",
+  "parameterValues" : [ ]
+}

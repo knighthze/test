@@ -1,0 +1,112 @@
+{
+  "uid" : "cc7a6d7dfab49a26",
+  "name" : "test_3_login",
+  "fullName" : "testcases.test_login.TestLogin#test_3_login",
+  "historyId" : "3dddfda98c12057ec2b3d4b32c2a278f",
+  "time" : {
+    "start" : 1628820012769,
+    "stop" : 1628820015015,
+    "duration" : 2246
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_logsystem",
+    "time" : {
+      "start" : 1628819999359,
+      "stop" : 1628820005154,
+      "duration" : 5795
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5fb4fdc9e5e52e27",
+      "name" : "log",
+      "source" : "5fb4fdc9e5e52e27.txt",
+      "type" : "text/plain",
+      "size" : 68
+    }, {
+      "uid" : "c5837d85c5f2c991",
+      "name" : "stdout",
+      "source" : "c5837d85c5f2c991.txt",
+      "type" : "text/plain",
+      "size" : 37
+    }, {
+      "uid" : "b366da2247cdc31b",
+      "name" : "stderr",
+      "source" : "b366da2247cdc31b.txt",
+      "type" : "text/plain",
+      "size" : 90
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "test_logsystem::0",
+    "time" : {
+      "start" : 1628820015015,
+      "stop" : 1628820015541,
+      "duration" : 526
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-S2QKEKE"
+  }, {
+    "name" : "thread",
+    "value" : "12020-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "cc7a6d7dfab49a26.json",
+  "parameterValues" : [ ]
+}

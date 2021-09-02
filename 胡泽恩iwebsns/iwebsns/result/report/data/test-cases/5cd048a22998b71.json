@@ -1,0 +1,112 @@
+{
+  "uid" : "5cd048a22998b71",
+  "name" : "test_2_login",
+  "fullName" : "testcases.test_login.TestLogin#test_2_login",
+  "historyId" : "74351dedebe2523098004accd6efd841",
+  "time" : {
+    "start" : 1628746691558,
+    "stop" : 1628746693714,
+    "duration" : 2156
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "test_logsystem",
+    "time" : {
+      "start" : 1628746670492,
+      "stop" : 1628746677605,
+      "duration" : 7113
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "d27d0b23d04af76f",
+      "name" : "log",
+      "source" : "d27d0b23d04af76f.txt",
+      "type" : "text/plain",
+      "size" : 68
+    }, {
+      "uid" : "238402354aad657e",
+      "name" : "stdout",
+      "source" : "238402354aad657e.txt",
+      "type" : "text/plain",
+      "size" : 55
+    }, {
+      "uid" : "9f0167f205b3a683",
+      "name" : "stderr",
+      "source" : "9f0167f205b3a683.txt",
+      "type" : "text/plain",
+      "size" : 90
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "attachmentsCount" : 3,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ {
+    "name" : "test_logsystem::0",
+    "time" : {
+      "start" : 1628746693715,
+      "stop" : 1628746694206,
+      "duration" : 491
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "testcases"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-S2QKEKE"
+  }, {
+    "name" : "thread",
+    "value" : "13988-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "testcases.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5cd048a22998b71.json",
+  "parameterValues" : [ ]
+}
